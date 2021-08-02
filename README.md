@@ -1,1 +1,1 @@
-This is a simple google clone 
+This is a simple google homepage clone
