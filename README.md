@@ -1,1 +1,1 @@
-# google-clone
+This is a simple google clone 
